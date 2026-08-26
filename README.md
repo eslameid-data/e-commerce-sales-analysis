@@ -50,13 +50,13 @@ The project provides a structured analytical model that allows business performa
 
 ## Dashboard Preview
 
-![Executive Overview Dashboard](dashboard/Executive Overview_Dashboard.png)
+![Executive Overview](dashboard/executive-overview.png)
 
-![Product Analysis Dashboard](dashboard/Product Analysis_Dashboard.png)
+![Product Analysis](dashboard/product-analysis.png)
 
-![Shipping Analysis Dashboard](dashboard/Shipping Analysis_Dashboard.png)
+![Shipping Analysis](dashboard/shipping-analysis.png)
 
-![Customer Analysis Dashboard](dashboard/customer analysis_Dashboard.png)
+![Customer Analysis](dashboard/customer-analysis.png)
 
 ## Dataset
 
