@@ -48,6 +48,16 @@ The project provides a structured analytical model that allows business performa
 - How quickly are orders shipped?
 - Which areas require further investigation?
 
+## Dashboard Preview
+
+![Executive Overview Dashboard](dashboard/Executive Overview_Dashboard.png)
+
+![Product Analysis Dashboard](dashboard/Product Analysis_Dashboard.png)
+
+![Shipping Analysis Dashboard](dashboard/Shipping Analysis_Dashboard.png)
+
+![Customer Analysis Dashboard](dashboard/customer analysis_Dashboard.png)
+
 ## Dataset
 
 The project uses the Sample Superstore dataset covering U.S. retail transactions from 2014 to 2017.
